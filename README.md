@@ -16,4 +16,4 @@ Simply not.
 
 ## Copyright 
 
-2018 Nigga inc
+2018 Nigga inc. All rights reserved.
